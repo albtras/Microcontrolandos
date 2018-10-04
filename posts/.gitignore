@@ -1,0 +1,16 @@
+*.pdsbak
+*.asm
+*.cp
+*.mcl
+*.dbg
+*.dct
+*.dlt
+*.log
+*.lst
+*.txt
+*.workspace
+*.dic
+*.brk
+*.bmk
+*.ini
+*.cof
