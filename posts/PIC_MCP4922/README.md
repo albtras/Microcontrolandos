@@ -21,7 +21,7 @@ Para definir o valor de um determinado canal:
 * Definimos o pino `CS` com nível lógico baixo para habilitar a transmissão dos dados;
 * Enviamos 16 bits: 
 
-![image](https://github.com/tiagohm/Microcontrolandos/blob/master/PIC_MCP4922/2.png?raw=true)
+![image](http://www.microcontrolandos.com.br/github/PIC_MCP4922/2.png)
 
 * O bit 15 (A/B) seleciona o canal: `0` é o canal A e `1` é o canal B;
 * O bit 13 (GA) indica o ganho de saída: `0` = ganho de 2x e `1` = não há ganho;
@@ -93,4 +93,4 @@ void main() {
 
 ### Download
 
-[Baixe o projeto aqui!](https://github.com/tiagohm/Microcontrolandos/tree/master/PIC_MCP4922)
+[Baixe o projeto aqui!](http://www.microcontrolandos.com.br/link/microcontrolandos-github)

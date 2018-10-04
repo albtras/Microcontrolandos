@@ -10,7 +10,7 @@ Obviamente que este maravilhoso compilador não sai de graça, e sugiro à aquel
 
 ### Crackeando
 
-1. Baixe o crack clicando [aqui](https://rebrand.ly/mikroc-pro-pic-7-crack);
+1. Baixe o crack clicando [aqui](http://www.microcontrolandos.com.br/link/mikroc-pro-pic-7-crack);
 
 2. Copie e cole o arquivo `HIDDongleDLL.dll` na pasta onde você instalou o compilador. Irá aparecer uma janela de diálogo perguntando se você deseja substituir o arquivo. Substitua-o;
 

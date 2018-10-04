@@ -112,4 +112,4 @@ void main() {
 
 ### Download
 
-[Baixe o projeto aqui!](https://github.com/tiagohm/Microcontrolandos/tree/master/PIC_MCP3201)
+[Baixe o projeto aqui!](http://www.microcontrolandos.com.br/link/microcontrolandos-github)

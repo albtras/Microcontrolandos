@@ -12,7 +12,7 @@ O AD5206 possui 6 canais. Cada canal contém um potênciômetro de `10k`, `50k` 
 
 Para definir o valor do potenciômetro de um determinado canal, devemos enviar pelo menos `11 bits` via comunicação SPI. Se mais de 11 bits forem enviados, somente os últimos 11 bits serão utilizados.
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_AD5206/2.png?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_AD5206/2.png)
 
 - Os três bits mais significativos definem o endereço de um canal (de 0 à 5);
 - Os 8 bits menos significativos definem o valor do potenciômetro (de 0 à 255).
@@ -73,4 +73,4 @@ void main() {
 
 ### Download
 
-[Baixe o projeto aqui!](https://github.com/tiagohm/Microcontrolandos/tree/master/PIC_AD5206)
+[Baixe o projeto aqui!](http://www.microcontrolandos.com.br/link/microcontrolandos-github)

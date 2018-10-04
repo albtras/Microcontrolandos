@@ -4,9 +4,9 @@ Clique [aqui](http://www.romanblack.com/shift1.htm) para conhecê-lo.
 
 Um simples circuito RC proporciona os atrasos necessários para o seu funcionamento.
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_LCD_1WIRE_74HC595/2.gif?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_LCD_1WIRE_74HC595/2.gif)
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_LCD_1WIRE_74HC595/3.gif?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_LCD_1WIRE_74HC595/3.gif)
 
 ### Observações
 1. É necessário um clock superior ou igual a `8MHz`.
@@ -157,4 +157,4 @@ void main() {
 
 ### Download
 
-[Baixe o projeto aqui!](https://github.com/tiagohm/Microcontrolandos/tree/master/PIC_LCD_1WIRE_74HC595)
+[Baixe o projeto aqui!](http://www.microcontrolandos.com.br/link/microcontrolandos-github)

@@ -1,10 +1,10 @@
 A nova versão do Proteus representa mais de três anos de desenvolvimento contínuo e inclui melhorias em cada área do  conjunto de software. Um grande trabalho sobre a estrutura do aplicativo em conjunto com o introdução de um banco de dados comum que possibilita um fluxo de trabalho muito mais tranquilo para os usuários enquanto os novos conjunto de recursos economiza tempo e esforço no ciclo de vida do projeto.
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PROTEUS_8/2.png?raw=true)
+![](http://www.microcontrolandos.com.br/github/PROTEUS_8/2.png)
 
 ### Download
 
-[Clique aqui para baixar](http://www.microcontrolandos.com.br/shortener/proteus-8)
+[Clique aqui para baixar](http://www.microcontrolandos.com.br/link/proteus-8)
 
 ### Como Instalar
 

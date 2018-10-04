@@ -91,7 +91,7 @@ void main() {
 
 Para criar seu próprio caractere, o Mikroc tem uma ferramenta só para isso. Vá no menu `Tools` e em seguida clique em `LCD Custom Char`.
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_LCD_SERIAL/2.png?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_LCD_SERIAL/2.png)
 
 1. Escolha o tamanho da fonte do LCD que é `5x7`;
 2. Desenhe o caractere desejado;
@@ -100,4 +100,4 @@ Para criar seu próprio caractere, o Mikroc tem uma ferramenta só para isso. V�
 
 ### Download
 
-[Clique aqui para baixar o projeto](https://github.com/tiagohm/Microcontrolandos/tree/master/PIC_LCD_SERIAL)
+[Clique aqui para baixar o projeto](http://www.microcontrolandos.com.br/link/microcontrolandos-github)

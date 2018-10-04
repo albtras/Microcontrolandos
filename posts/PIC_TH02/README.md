@@ -1,6 +1,6 @@
 [TH02](http://www.hoperf.com/upload/sensor/TH02_V1.1.pdf) é um sensor de temperatura e umidade.
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_TH02/2.png?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_TH02/2.png)
 
 Apesar de ser desconhecido para mim, ele aparenta ser um excelente sensor. Baixo consumo de energia, rapidez na medição e boa resolução são os pontos destacáveis desse dispositivo.
 
@@ -19,19 +19,19 @@ Apesar de ser desconhecido para mim, ele aparenta ser um excelente sensor. Baixo
 
 O TH02 possui um registro de configuração `CONFIG` (0x03) na qual é utilizado para definir se estamos querendo ler a temperatura ou a umidade (`TEMP`), selecionar a velocidade da conversão (`FAST`) e iniciar uma conversão (`START`).
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_TH02/3.png?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_TH02/3.png)
 
 O bit `FAST` reduz o tempo de conversão de 35ms para 18ms e o consumo de energia. Consequentemente, reduz a resolução da medição.
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_TH02/4.png?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_TH02/4.png)
 
 Então sempre que quisermos realizar uma leitura de temperatura ou umidade, devemos escrever no registro `CONFIG`.
 
 O valor de 16 bits da temperatura e da umidade encontra-se nos registros `DATAH` (0x01) e `DATAL` (0x02).
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_TH02/5.png?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_TH02/5.png)
 
-![](https://github.com/tiagohm/Microcontrolandos/raw/master/PIC_TH02/6.png?raw=true)
+![](http://www.microcontrolandos.com.br/github/PIC_TH02/6.png)
 
 A sequência para iniciar a conversão e ler os valores é:
 
@@ -176,4 +176,4 @@ void main() {
 
 ### Download
 
-[Baixe o projeto aqui!](https://github.com/tiagohm/Microcontrolandos/tree/master/PIC_TH02)
+[Baixe o projeto aqui!](http://www.microcontrolandos.com.br/link/microcontrolandos-github)

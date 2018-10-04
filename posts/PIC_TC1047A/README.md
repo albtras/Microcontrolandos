@@ -11,7 +11,7 @@
 
 O TC1047 converte o valor de temperatura em um valor de tensão linearmente proporcional. Cada `10mV` corresponde a `1°C`.
 
-![img](https://github.com/tiagohm/Microcontrolandos/blob/master/PIC_TC1047A/2.png?raw=true)
+![img](http://www.microcontrolandos.com.br/github/PIC_TC1047A/2.png)
 
 Através do canal analógico do microcontrolador, iremos ler o valor digital da temperatura. Numa temperatura de `-40°C` o TC1047A tem uma tensão de saída de `0,1V`. A `0°C` o TC1047A tem uma tensão de saída de `0,5V` e a `125°C` tem uma tensão de saída de `1,75V`. Precisamos converter o valor lido do canal analógico em um valor de temperatura. Para isso vamos converter este valor em um valor de tensão. No caso de um microcontrolador com um ADC de `10 bits`, o valor de tensão (em mV) será: `ADC * 5000 / 1024`. Ainda temos que descontar`500mV` (pois a 0°C a tensão de saída é 0,5V). Como a resolução da tensão de saída é de 10mV/°C, temos que dividir tudo por `10`. Então nossa fórmula fica assim: `ADC * 500 / 1024 - 50`.
 
@@ -80,4 +80,4 @@ char texto[7];
 
 ### Download
 
-[Baixe o projeto aqui!](https://github.com/tiagohm/Microcontrolandos/tree/master/PIC_TC1047A)
+[Baixe o projeto aqui!](http://www.microcontrolandos.com.br/link/microcontrolandos-github)
