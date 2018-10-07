@@ -1,6 +1,6 @@
 Muitas vezes precisamos ter mais saídas digitais do que nosso microcontrolador possui. Displays de LCD, displays de 7 segmentos ou matrizes de LEDs necessitam de muitos pinos e por isso acabam esgotando o número de pinos disponíveis.
 
-O [74HC595](http://www.ti.com/lit/ds/symlink/sn74hc595.pdf) vem pra solucionar esse problema. Com apenas 3 pinos ligados ao microcontrolador, é possíveis obter dezenas ou até centenas de pinos de saída.
+O [74HC595](http://www.ti.com/lit/ds/symlink/sn74hc595.pdf) vem pra solucionar esse problema. Com apenas 3 pinos ligados ao microcontrolador, é possível obter dezenas ou até centenas de pinos de saída.
 
 ![](http://www.microcontrolandos.com.br/github/PIC_74HC595/2.png)
 
